@@ -42,3 +42,9 @@ h1 {
 .countdown-el span {
     font-size: 1.3rem;
 }
+
+.fecha{
+    margin-top: 6rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
